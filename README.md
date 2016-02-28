@@ -1,5 +1,7 @@
-# laberinto-JuanPabloLondono
-laberinto-JuanPabloLondono created by Classroom for GitHub
+
+
+
+
 
 import java.util.Scanner;
 public class Laberinto

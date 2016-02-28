@@ -1,6 +1,7 @@
 
 
-
+Nombre: Juan Pablo Londoño Botina
+Codigo: 201510041010
 
 
 import java.util.Scanner;
